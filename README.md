@@ -1,5 +1,5 @@
 # unruy_removal_tool
-Unury malware removal tool
+Unruy malware removal tool
 
 This tool scan the system for infected files and processes, and remove Unruy infections.
 
